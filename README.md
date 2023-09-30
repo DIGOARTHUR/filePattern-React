@@ -1,4 +1,4 @@
-
+<!--  docs: update Readme   -->
 
 <!-------------------------------------------------------------------->
 <!-- FOLDER ICONS ---------
@@ -179,43 +179,40 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 `validations`: são feitas as validações de formulários. Podem ser criado Schemas para a análise de regras. Pode-se utilizar a biblioteca Formic, por exemplo.
 
 # Estrutura
-
-react-project
-├── src
-    └── `api`
-    │   ├── `auth`
-    │   ├── `services`
-    │ 
-    └── `assets`
-    │    ├── `audios`
-    │    ├── `imagens`
-    │    └── `videos`
-    └── `components`
-    │    ├── Card.js
-    │    ├── Create.js
-    │    └── List.js
-    └── `pages`
-    │    └── AboutUs
-    │         ├── `teste`
-    │         ├── About-Us.css
-    │         └── About-Us.tsx
-    └── `store`
-    │
-    └── `types`
-    │
-    └── `utils`
-    │    ├── `hooks`
-    │    │    ├── useChat.js
-    │    │    ├── useOutsideAlerter.js
-    │    │    ├── useToast.js
-    │    ├── `providers`
-    │         ├── HomeContextProvider.js
-    │         ├── ToastContextProvider.js
-    │
-    └── `validations`
-
-
-
+ 
+     react-project
+     ├── src
+          └── `api`
+          │   ├── `auth`
+          │   ├── `services`
+          │ 
+          └── `assets`
+          │    ├── `audios`
+          │    ├── `imagens`
+          │    └── `videos`
+          └── `components`
+          │    ├── Card.js
+          │    ├── Create.js
+          │    └── List.js
+          └── `pages`
+          │    └── AboutUs
+          │         ├── `teste`
+          │         ├── About-Us.css
+          │         └── About-Us.tsx
+          └── `store`
+          │
+          └── `types`
+          │
+          └── `utils`
+          │    ├── `hooks`
+          │    │    ├── useChat.js
+          │    │    ├── useOutsideAlerter.js
+          │    │    ├── useToast.js
+          │    ├── `providers`
+          │         ├── HomeContextProvider.js
+          │         ├── ToastContextProvider.js
+          │
+          └── `validations`
 
    <!-------------------------------------------------------------------->
   <!------------------------------------RUN APP------------------------->
