@@ -121,6 +121,7 @@ Projeto modelo com estruturas de pastas - REACT
   <a href="https://github.com/DIGOARTHUR/Dashgo#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Dashgo#--interfaces-"> Pastas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Dashgo#-Stacks-"> Estruturas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/DIGOARTHUR/Dashgo#-Stacks-">Extensão VSCODE</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Dashgo#-rodando-a-aplicação">Clonar Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Dashgo#-por-que--">Por que?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>  
@@ -220,6 +221,19 @@ Projeto modelo com estruturas de pastas - REACT
           │
           └── `validations`
                 ├── `forms.js`
+
+
+
+  # Extensão VSCODE para visual das pastas
+
+ 1. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+ 2. [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+ 3. [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+ 4. [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
+ 5. [City Lights](https://marketplace.visualstudio.com/publishers/Yummygum)
+    
+    [More...](https://javascript.plainenglish.io/10-icon-packs-for-vs-code-87d2ff700d0c)
+
 
    <!-------------------------------------------------------------------->
   <!------------------------------------RUN APP------------------------->
