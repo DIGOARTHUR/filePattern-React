@@ -63,7 +63,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 <h1 align="center">
  
-# Projeto modelo com estruturas de pastas - REACT
+Projeto modelo com estruturas de pastas - REACT
 </h1>
 
 <p align="center">
@@ -102,7 +102,10 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   
 
 
-  
+   <!------------------------------------TOOLS-->
+ #### Tools:
+ <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381414-d3066c8b-c3ee-4fae-943d-481857e88000.svg"><a/>
+ <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381109-88617798-75ae-4f3a-bc4a-1210637f818c.svg"><a/>
 
 
 
@@ -113,12 +116,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <!-------------------------------------------------------------------->
 <!------------------------------------SUMMARY------------------------->
 <!-------------------------------------------------------------------->
-  # `Sumário  Ex.:`
+ 
 <p align="center">
   <a href="https://github.com/DIGOARTHUR/Dashgo#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Dashgo#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Dashgo#-Stacks-"> Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Dashgo#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Dashgo#--interfaces-"> Pastas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Dashgo#-Stacks-"> Estruturas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Dashgo#-rodando-a-aplicação">Clonar Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Dashgo#-por-que--">Por que?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>  
 
@@ -131,7 +134,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação 
 ---
 > Aqui está sendo apresentado os tipos de pastas que são usadas no React e um exemplo de estrutura. 
-> ATENÇÃO: A melhor estrutura é aquela em que você e sua equipe conseguem trabalhar em harmonia. Então não há uma regra, a regra é feita internamente e seguida por todos para que haja o desenvolvimento.
+> ATENÇÃO: A melhor estrutura é aquela que você e sua equipe conseguem trabalhar em harmonia. Então não há uma regra, a regra é feita internamente e seguida por todos para que haja o desenvolvimento.
 
 
 ---
@@ -151,15 +154,15 @@ https://dev.to/envoy_/150-badges-for-github-pnk
    
 
 
-`assets`: Serve para armazenar imagens, ícones, audios, videos.
+`assets`: serve para armazenar imagens, ícones, audios, videos.
 
 
 
-`componentes`: Componentes reutilizáveis da aplicação. Componentes que são unidades para sua aplicação, um button, um dropdown, um modal, um input etc.
+`componentes`: componentes reutilizáveis da aplicação. Componentes que são unidades para sua aplicação, um button, um dropdown, um modal, um input etc.
 
 
 
- - `pages`: As pages são as páginas que usam vários componentes. É essa a página que o usuário vai ver.
+ - `pages`: as pages são as páginas que usam vários componentes. É essa a página que o usuário vai ver.
 
    - `test`: aqui fica toda a estrutura para testes. É conveniente colocar junto aos arquivos de cada página para que corresponda aos mesmos.
 
@@ -167,12 +170,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 `store`: este diretório inclui todos os estados globais do React que podem ser acessados a partir de qualquer componente do aplicativo. Podem ser usados state managers, context api, zustand, redux.
 
-`types`: Armazena as tipagens de typescript (types e interfaces) que são comuns em várias áreas do projeto.
+`types`: armazena as tipagens de typescript (types e interfaces) que são comuns em várias áreas do projeto.
 
 
 
-- `util`: Funções utilitárias como formatCurrency, formatPhone, convertTimezone, parsePhone (javascript puro).
-   - `hooks`: Essa pasta é utilizada para armazenar hooks que são genéricos, têm interação com hooks do React (useState, useEffect) e normalmente reutilizáveis e qualquer projeto, exemplos: useScreenSize, useLocalStorage, useSessionStorage, useUserActive.
+- `util`: funções utilitárias como formatCurrency, formatPhone, convertTimezone, parsePhone (javascript puro).
+   - `hooks`: essa pasta é utilizada para armazenar hooks que são genéricos, têm interação com hooks do React (useState, useEffect) e normalmente reutilizáveis e qualquer projeto, exemplos: useScreenSize, useLocalStorage, useSessionStorage, useUserActive.
    - `providers`
    - `formatCurrency.js`
 
@@ -200,8 +203,11 @@ https://dev.to/envoy_/150-badges-for-github-pnk
           │         ├── About-Us.css
           │         └── About-Us.tsx
           └── `store`
+          │     ├── language.js
+          │     ├── user.js
           │
           └── `types`
+                ├── user.ts
           │
           └── `utils`
           │    ├── `hooks`
@@ -213,6 +219,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
           │         ├── ToastContextProvider.js
           │
           └── `validations`
+                ├── `forms.js`
 
    <!-------------------------------------------------------------------->
   <!------------------------------------RUN APP------------------------->
@@ -249,13 +256,13 @@ git remote -v
   <!------------------------------------WHY/THANKS--------------------->
   <!-------------------------------------------------------------------->
 
-  # `Agradecimentos Ex.:`  
+
 
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por que?  <!---write here : motivation that led to created ; why did you do this program?   -->
- Seguindo o curso IGNITE já em reta final, esse foi um dos projetos mais legais dentro  trilha ReactJS. A [@Rocketseat](https://github.com/Rocketseat) sempre trazendo novidades a cada aplicação, ferramentas que abrem fronteiras para aplicação e criatividade em projetos pessoais e profissionais.
+ Quando estamos desenvolvento um projeto às vezes ficamos perdidos em relação onde inserir cada arquivo. Este projeto demonstra um exemplo, demonstra uma ideia em como se organiza e o que cada pasta significa.
 
  ---
-Só tenho agradecer ♥
+Obrigadíssimo pela a sua atenção. Abraçoo ♥
   
   
   
