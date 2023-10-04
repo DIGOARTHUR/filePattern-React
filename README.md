@@ -166,7 +166,7 @@ Projeto modelo com estruturas de pastas - REACT
  - `pages`: as pages são as páginas que usam vários componentes. É essa a página que o usuário vai ver.
 
    - `test`: aqui fica toda a estrutura para testes. É conveniente colocar junto aos arquivos de cada página para que corresponda aos mesmos.
-
+   - `storybook`: pasta onde fica o arquivo da ferramenta storybook que é usada como playground para componentes de UI. Ele permite que nós, desenvolvedores, criemos e testemos componentes isoladamente. Ele também é executado fora do aplicativo, portanto, as dependências do projeto não afetarão o comportamento dos componentes.
 
 
 `store`: este diretório inclui todos os estados globais do React que podem ser acessados a partir de qualquer componente do aplicativo. Podem ser usados state managers, context api, zustand, redux.
