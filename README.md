@@ -200,6 +200,7 @@ Projeto modelo com estruturas de pastas - REACT
           │    └── List.js
           └── `pages`
           │    └── AboutUs
+          │         ├── `storybook`
           │         ├── `teste`
           │         ├── About-Us.css
           │         └── About-Us.tsx
