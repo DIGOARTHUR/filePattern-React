@@ -84,19 +84,11 @@ Projeto modelo com estruturas de pastas - REACT
 
 </p>
 
-<h1 align="center">
- 
-</h1>
+----
 
 
 
 
-<!-------------------------------------------------------------------->
- <!------------------------------------BADGES PROJECT  ---------------->
- <!-------------------------------------------------------------------->
-
-  ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/filePattern-React)
-  ![GitHub](https://img.shields.io/github/license/digoarthur/filePattern-React)
   
   
 <!-------------------------------------------------------------------->
@@ -129,6 +121,12 @@ Projeto modelo com estruturas de pastas - REACT
   <a href="https://github.com/DIGOARTHUR/filePattern-React#-por-que--">Por que?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>  
 
+<!-------------------------------------------------------------------->
+ <!------------------------------------BADGES PROJECT  ---------------->
+ <!-------------------------------------------------------------------->
+
+  ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/filePattern-React)
+  ![GitHub](https://img.shields.io/github/license/digoarthur/filePattern-React)
 
   
    <!-------------------------------------------------------------------->
