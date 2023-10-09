@@ -180,8 +180,7 @@ Projeto modelo com estruturas de pastas - REACT
 
 - `util`: funções utilitárias como formatCurrency, formatPhone, convertTimezone, parsePhone (javascript puro).
    - `hooks`: essa pasta é utilizada para armazenar hooks que são genéricos, têm interação com hooks do React (useState, useEffect) e normalmente reutilizáveis e qualquer projeto, exemplos: useScreenSize, useLocalStorage, useSessionStorage, useUserActive.
-   - `providers`
-   - `formatCurrency.js`
+   - `providers`: essa pasta é utilizada para os arquivos ligado ao recurso Provider do React. Estabelecendo uma hierarquia global de compartilhamento de informações na aplicação.
 
 `validations`: são feitas as validações de formulários. Podem ser criado Schemas para a análise de regras. Pode-se utilizar a biblioteca Formic, por exemplo.
 
