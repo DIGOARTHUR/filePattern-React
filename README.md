@@ -65,7 +65,14 @@ https://dev.to/envoy_/150-badges-for-github-pnk
  
 Projeto modelo com estruturas de pastas - REACT
 </h1>
-
+  <div align="center">
+     
+<img  alt="ReactJS"   height="65" src="https://github.com/DIGOARTHUR/github-automated-repos/assets/59892368/11fe7e24-b5d7-47bf-814a-c8d5855e7ca8"> 
+<img  alt="ViteJS"  height="65" height="50" src="https://github.com/DIGOARTHUR/github-automated-repos/assets/59892368/f85aeacd-cea4-4280-9096-194da03e758e"> 
+<img  alt="NextJS"  height="65" height="50" src="https://github.com/DIGOARTHUR/github-automated-repos/assets/59892368/6b213e2e-213a-489d-bbda-1dec9dcda585"> 
+     
+  </div> 
+   <br>
 <p align="center">
   <!-------------------------------------------------------------------->
   <!------------------------------------PROJECT ICON-------------------->
@@ -74,6 +81,7 @@ Projeto modelo com estruturas de pastas - REACT
   <br>
   <i>Organize seus projetos React de forma profissional e limpa</i>
   <br>
+
 </p>
 
 <h1 align="center">
@@ -87,10 +95,8 @@ Projeto modelo com estruturas de pastas - REACT
  <!------------------------------------BADGES PROJECT  ---------------->
  <!-------------------------------------------------------------------->
 
-  ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/bash-commands-tricks
-)
-  ![GitHub](https://img.shields.io/github/license/digoarthur/bash-commands-tricks
-)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/filePattern-React)
+  ![GitHub](https://img.shields.io/github/license/digoarthur/filePattern-React)
   
   
 <!-------------------------------------------------------------------->
@@ -103,9 +109,6 @@ Projeto modelo com estruturas de pastas - REACT
 
 
    <!------------------------------------TOOLS-->
- #### Tools:
- <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381414-d3066c8b-c3ee-4fae-943d-481857e88000.svg"><a/>
- <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381109-88617798-75ae-4f3a-bc4a-1210637f818c.svg"><a/>
 
 
 
