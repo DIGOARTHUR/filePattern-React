@@ -43,7 +43,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
 
-<!------------------------------------ LANGUAGE BUTTONS-->
+<!------------------------------------ LANGUAGE BUTTONS
 <div align="right">
 <a href="https://github.com/DIGOARTHUR/github-automated-repos#readme">
     <img  height="35" src="https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/257623321-95c81f57-b751-4956-b0ab-7a804ae44506.svg" alt="language_USA" border="0">
@@ -54,7 +54,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 <a/>
 
 </div>
-
+-->
 
 <!-------------------------------------------------------------------->
  <!------------------------------------BANNER PROJECT----------------->
