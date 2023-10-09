@@ -136,7 +136,7 @@ Projeto modelo com estruturas de pastas - REACT
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação 
 ---
 > Aqui está sendo apresentado os tipos de pastas que são usadas no React e um exemplo de estrutura. 
-> ATENÇÃO: A melhor estrutura é aquela que você e sua equipe conseguem trabalhar em harmonia. Então não há uma regra, a regra é feita internamente e seguida por todos para que haja o desenvolvimento.
+> ATENÇÃO: a melhor estrutura é aquela que você e sua equipe conseguem trabalhar em harmonia. Então não há uma regra, a regra é feita internamente e seguida por todos para que haja o desenvolvimento.
 
 
 ---
