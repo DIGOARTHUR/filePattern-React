@@ -79,7 +79,7 @@ Projeto modelo com estruturas de pastas - REACT
   <!-------------------------------------------------------------------->
    <img height="150px" alt="bashftreactgit" title="bashftreactgit" src="https://github.com/DIGOARTHUR/bash-commands-tricks/assets/59892368/65898d98-acf9-4d83-8f0f-11486df328a7" />
   <br>
-  <i>Organize seus projetos React de forma profissional e limpa</i>
+  <i>Organize seus projetos React de forma profissional e clara</i>
   <br>
 
 </p>
